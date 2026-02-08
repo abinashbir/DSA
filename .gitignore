@@ -1,0 +1,6 @@
+# C++ compiled files
+a.out
+*.exe
+*.out
+main
+inout

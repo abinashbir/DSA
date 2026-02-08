@@ -11,3 +11,6 @@ int main(){
     cin>>y;
     cout<<x+y<<endl;
 }
+
+
+
