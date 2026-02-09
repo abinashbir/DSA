@@ -24,7 +24,9 @@ int main(){
         case 6:
             cout<<"Saturday";break;
         case 7:
-            cout<<"Sunday";                       
+            cout<<"Sunday";
+        default:
+            cout<<"Invalid Input";                           
     }
 }
 
