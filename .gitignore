@@ -1,5 +1,15 @@
-a.out
-*.exe
-*.out
-main
-inout
+# ignore all compiled executables (Linux)
+*
+
+# allow source files
+!*.cpp
+!*.h
+!*.c
+
+# allow folders
+!*/
+
+# allow important config files
+!.gitignore
+!.vscode/
+!.vscode/settings.json

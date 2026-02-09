@@ -7,9 +7,9 @@ int main(){
     cin>>age;
 
     if(age>=18){
-        cout<<"You are eligible to choose your representitives";
+        cout<<"You are eligible to choose your representitives"<<endl;
     }else{
-        cout<<"You are not eligible to cast the vote";
+        cout<<"You are not eligible to cast the vote"<<endl;
     }
 
 }
