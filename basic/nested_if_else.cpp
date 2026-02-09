@@ -13,10 +13,9 @@ int main(){
 
         if(age>=55 && age<=57){
             cout<<"Retirement soon";
-        }else if(age>57){
-            cout<<"RETIRE"<<endl;
         }
-
+    }else{
+            cout<<"RETIRE"<<endl;
     }
 }
 
