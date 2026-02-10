@@ -18,5 +18,9 @@ int main(){
     for(int i =0;i<s;i++){
         cout<<arr[i]<<" ";
     }
+
+    //modify the arr
+
+    arr[4]+=67;
 } 
 
