@@ -6,5 +6,5 @@ void printname(string name) {
 }
 
 int main(){
-    printname("abinash");
+    printname("Abinash");
 }
