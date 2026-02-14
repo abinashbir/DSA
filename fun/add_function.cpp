@@ -3,7 +3,6 @@ using namespace std;
 
 int add(int a, int b){
     
-
     cout<<"Enter the value of a :";
     cin>>a;
     cout<<"Enter the value of b :";
@@ -13,9 +12,7 @@ int add(int a, int b){
 
 int main(){
     int a,b,sum;
-    
     sum=add(a,b);
-
     cout<<sum<<endl;
     
 
