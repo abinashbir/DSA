@@ -6,5 +6,10 @@ void printname(string name) {
 }
 
 int main(){
-    printname("Abinash");
+
+    string name;
+    cout<<"Enter your name : ";
+    cin>>name;
+
+    printname(name);
 }
