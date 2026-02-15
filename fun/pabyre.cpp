@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int print(int num){
+int print(int &num){
     num=num+5;
     cout<<num<<endl;
     num=num+5;
