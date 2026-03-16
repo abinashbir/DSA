@@ -16,6 +16,4 @@ int main(){
     print(num);
     cout<<num<<endl;
 
-    
-
 }
