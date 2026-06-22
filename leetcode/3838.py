@@ -10,4 +10,8 @@ print(first_string_characters)
 
 print(weight)
 
+totalWt = 0;
+
+# totalwyt += weight[z-'a']
+
 
